@@ -1,5 +1,7 @@
 # llm-pdf-extractor
 This project demonstrates the use of llm for extracting and analyzing data from PDFs.
+./BillExtractor.png
+
 Setup new python environment.
 python3 -m venv pdfenv
 cd pdfenv
